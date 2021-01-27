@@ -1,0 +1,17 @@
+{
+  "name": "cordoba-overlay",
+  "version": "1.0.0",
+  "description": "create floating widget native.",
+  "cordova": {
+    "id": "cordova.overlay",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "z0rkuM",
+  "license": "Apache 2.0"
+}
